@@ -14,7 +14,7 @@ context menu of folders and the background.
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Open a terminal with Git bash.
+2. Run a bash shell as administrator like GitBash.
 3. Navigate to the directory where the script is located.
 4. Run the script.
 
