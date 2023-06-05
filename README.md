@@ -19,7 +19,7 @@ context menu of folders and the background.
 4. Run the script.
 
    ```bash
-       bash Open_with_IDE.sh
+       $ ./Open_with_IDE.sh
    ```
 
 5. Follow the instructions provided by the script.
